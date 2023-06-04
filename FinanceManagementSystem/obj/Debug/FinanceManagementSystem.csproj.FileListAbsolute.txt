@@ -1,0 +1,16 @@
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\FinanceManagementSystem.exe.config
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\FinanceManagementSystem.exe
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\FinanceManagementSystem.pdb
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.Dashboard.resources
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.Properties.Resources.resources
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.csproj.GenerateResource.cache
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.exe
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.pdb
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.Income.resources
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.expense.resources
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.login.resources
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.users.resources
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.ViewExpense.resources
+C:\Users\Zain Mughal\source\repos\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.ViewIncome.resources
